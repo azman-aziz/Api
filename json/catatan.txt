@@ -4,3 +4,12 @@ di akhir penulisan json kita tidak perlu menggunakan ;
 
 jika objek lebih dari 1 makan harus di bungkus dengan array
 di dalam objek kita dapat membuat objek lagi 
+
+
+php 
+di php ada 2 fungsi yaitu 
+
+- json_encode()
+- json_decode()
+
+-file_get_contents() = mengambil json dari tempat lain
