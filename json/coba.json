@@ -1,0 +1,20 @@
+[
+{
+	"nama" : "aziz maulana",
+	"umur" : 17, 
+	"hobi" : "mencoba hal baru",
+	"cita-cita" : {
+		"cita-cita 1" : "developer",
+		"cita-cita 2" : "bussines man"
+	}
+},
+{
+	"nama" : "aziz maulana",
+	"umur" : 17, 
+	"hobi" : "mencoba hal baru",
+	"cita-cita" : {
+		"cita-cita 1" : "developer",
+		"cita-cita 2" : "bussines man"
+	}
+}
+]

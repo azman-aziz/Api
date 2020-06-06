@@ -1,0 +1,6 @@
+json dapat membaca berbagai karakter 
+json di awali dengan tanda { } sebagai pembuka nya 
+di akhir penulisan json kita tidak perlu menggunakan ; 
+
+jika objek lebih dari 1 makan harus di bungkus dengan array
+di dalam objek kita dapat membuat objek lagi 
