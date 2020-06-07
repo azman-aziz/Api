@@ -16,3 +16,8 @@ di php ada 2 fungsi yaitu
 
 -file_get_contents() = mengambil json dari tempat lain
 
+
+Javascript 
+
+-JSON.stringify() obj -> json
+-JSON.parse() json -> obj
