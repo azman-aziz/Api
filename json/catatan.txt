@@ -5,11 +5,14 @@ di akhir penulisan json kita tidak perlu menggunakan ;
 jika objek lebih dari 1 makan harus di bungkus dengan array
 di dalam objek kita dapat membuat objek lagi 
 
+catatan belum solved menemukan solusi untuk json view pada x debug 
+
 
 php 
 di php ada 2 fungsi yaitu 
 
 - json_encode()
-- json_decode()
+- json_decode() ; tambahkan parameter true untuk mengubah menjadi array 
 
 -file_get_contents() = mengambil json dari tempat lain
+
